@@ -1,0 +1,5 @@
+@font-face{
+
+    font-family: 'gummy bears';
+    src: url("..fonte/GummyBears.ttf")
+}

@@ -1,0 +1,125 @@
+@font-face {
+
+    font-family: 'gummy bears';
+    src: url("../fontes/CAMPUS_PERSONAL_USE.ttf")
+}
+
+.conteudo {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://www.mulherportuguesa.com/wp-content/uploads/2016/10/Significado-da-cor-preto.jpg);
+}
+
+.imgc {
+    width: 1200px;
+    height: 300px;
+
+}
+
+.navbar {
+    background-image: url("../img/fundo.jpg");
+
+}
+
+.nav-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+
+}
+
+.card-img-top {
+    contain: layout;
+    height: 190px;
+}
+
+.txt {
+    width: 1200px;
+    left: 400px;
+    margin: 3px;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+    padding: 15px;
+
+}
+
+.planetas {
+    width: 280px;
+    height: 250px;
+    border: 1px solid darkgray;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+
+}
+
+.barra{
+    background-color: #4169E1	;
+    width: 1200px;
+    height: 100px;
+}
+
+
+.nav-link:hover {
+    color: white;
+    background-color: DodgerBlue;
+}
+
+h1 {
+    color: FireBrick;
+}
+
+.missoes {
+    width: 1200px;
+    height: 400px;
+    padding: 25px;
+}
+
+.card-text {
+
+    height: 140px;
+    text-align: justify;
+
+}
+
+.card-title {
+
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pgimg {
+    height: 200px;
+    padding: 1px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.topo {
+
+    width: 450px;
+    z-index: 10000;
+    position: absolute;
+    top: 10px;
+    left: 400px;
+
+    color: white;
+    font-size: 25px;
+    font-family: "CAMPUS PERSONAL USE";
+}
+
+.menu {
+    width: 552px;
+    z-index: 10000;
+    position: absolute;
+    top: 0;
+    left: 1000px;
+
+}
+
+h1{
+
+    font-family: "CAMPUS PERSONAL USE";
+}
